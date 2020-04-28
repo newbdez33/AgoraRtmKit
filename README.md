@@ -6,3 +6,7 @@
 Add this line to your Cartfile:
 
 `binary "https://raw.githubusercontent.com/newbdez33/AgoraRtmKit/master/AgoraRtmKit.json"`
+
+
+## Other
+Not working, do not use it.
